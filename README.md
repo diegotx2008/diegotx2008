@@ -17,7 +17,9 @@ Here are some ideas to get you started:
   <h1>Olá, eu sou o Diego estudante e apaixonado por tecnologia👋</h1>
 <header>
 <main>
-  
+    <section>
+      <h3>Testando main</h3>
+    <section>
 </main>
   
 <footer>
