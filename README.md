@@ -1,4 +1,4 @@
-<h1></h1>
+<h1>Olá, sou Diego uma estudante de programação e apaixonado por tecnologia!!</h1>
 <a href="https://github-readme-stats.vercel.app/api?username=diegotx2008&show_icons=true&theme=cobalt&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegotx2008&show_icons=true&theme=cobalt&count_private=true" />
 </a>
