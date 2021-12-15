@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Olá, eu sou o Diego estudante e apaixonado por tecnologia👋</h1>
+<header>
+  <h1>Olá, eu sou o Diego estudante e apaixonado por tecnologia👋</h1>
+<header>
