@@ -1,6 +1,7 @@
 <h1>Seja bem vindo ao meu perfil!!</h1>
 <h3>
-  Sou um desenvolvedor Sankhya e PL/SQL apaixonado pela área de tecnologia!
+  Sou um desenvolvedor Sankhya e PL/SQL apaixonado pela área de tecnologia!<br>
+  Fique a vontade para desmembrar meu github para conhecer um pouco mais sobre mim e meus projetos.  
 </h3>
 
 <a href="https://github-readme-stats.vercel.app/api?username=diegotx2008&show_icons=true&theme=cobalt&count_private=true">
