@@ -1,8 +1,10 @@
 <h1>Seja bem vindo ao meu perfil!!</h1>
-<h3 style="text-align:justify;">
-  Sou um desenvolvedor Sankhya e PL/SQL apaixonado pela área de tecnologia!<br>
-  Fique a vontade para desmembrar meu github para conhecer um pouco mais sobre mim e meus projetos.  
-</h3>
+<div style="text-align:justify; width:60%; height:auto;">
+  <h3>
+    Sou um desenvolvedor Sankhya e PL/SQL apaixonado pela área de tecnologia!<br>
+    Fique a vontade para desmembrar meu github para conhecer um pouco mais sobre mim e meus projetos.  
+  </h3>
+</div>  
 
 <a href="https://github-readme-stats.vercel.app/api?username=diegotx2008&show_icons=true&theme=cobalt&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegotx2008&show_icons=true&theme=cobalt&count_private=true" />
