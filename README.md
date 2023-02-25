@@ -7,9 +7,9 @@
 	</h3>
 	
 </div>
+
 <div>
-	<img align="left" src="https://im5.ezgif.com/tmp/ezgif-5-5d4ce0b805.gif">
-	<br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<!-<img align="left" src="https://im5.ezgif.com/tmp/ezgif-5-5d4ce0b805.gif">
 </div>
 
 </div>
