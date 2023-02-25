@@ -1,11 +1,11 @@
 <h1>Seja bem vindo ao meu perfil!!</h1>
-<div class="mark">
+<br>
   <h3>
-    Sou um desenvolvedor Sankhya e PL/SQL apaixonado pela área de tecnologia!<br>
-    Fique a vontade para desmembrar meu github para conhecer um pouco mais sobre mim e meus projetos.  
+    <p>
+      Sou um desenvolvedor Sankhya e PL/SQL apaixonado pela área de tecnologia. Fique a vontade para desmembrar meu github e conhecer um pouco mais sobre mim e meus projetos. 
+    </p> 
   </h3>
-</div>  
-
+  <br><br>
 <a href="https://github-readme-stats.vercel.app/api?username=diegotx2008&show_icons=true&theme=cobalt&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegotx2008&show_icons=true&theme=cobalt&count_private=true" />
 </a>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 <br>
     <h3>Tecnologias que estou aprimorando</h3>
-    <img src="https://img.shields.io/badge/JAVA-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+    <img src="https://img.shields.io/badge/JAVA-F80000?style=for-the-badge&logo=openjdk&logoColor=black"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>   
 <br>  
@@ -28,7 +28,12 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+<br>  
+  <h3>Ferramentas e Sistemas que trabalho/trabalhei</h3>
+    <img src="https://img.shields.io/badge/Sankhya ERP-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+    <img src="https://img.shields.io/badge/SAP ERP-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WINTHOR ERP-005C8?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure Devops-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">  
 </div>
 <br>
 <div>
@@ -41,9 +46,3 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
 
-<style>
-    mark{
-        color:red;
-    }
-</style>
-<mark>what is DataBase</mark>
