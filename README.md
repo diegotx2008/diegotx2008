@@ -17,12 +17,10 @@
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
 <br>
-<br>    
-  <h3>Tecnologias que estou aprimorando</h3>
+    <h3>Tecnologias que estou aprimorando</h3>
     <img src="https://img.shields.io/badge/JAVA-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>   
-<br>
 <br>  
   <h3>Banco de dados que já trabalhei</h3>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
@@ -30,7 +28,6 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
-<br>
 <br>
 <div>
   <h3>Redes sociais</h3>
