@@ -11,7 +11,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegotx2008&theme=cobalt" />
 </a>
 <br>
-<br>
 <div>
   <h3>Tecnologias que já trabalho</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
