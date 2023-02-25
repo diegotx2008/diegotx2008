@@ -1,5 +1,5 @@
 <h1>Seja bem vindo ao meu perfil!!</h1>
-<div style=text-align:justify; width:60%; height:auto; color:red;>
+<div class="mark">
   <h3>
     Sou um desenvolvedor Sankhya e PL/SQL apaixonado pela área de tecnologia!<br>
     Fique a vontade para desmembrar meu github para conhecer um pouco mais sobre mim e meus projetos.  
@@ -40,3 +40,10 @@
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>   
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
+
+<style>
+    mark{
+        color:red;
+    }
+</style>
+<mark>what is DataBase</mark>
