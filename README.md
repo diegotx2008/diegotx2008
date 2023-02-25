@@ -5,7 +5,8 @@
       Sou um desenvolvedor Sankhya e PL/SQL apaixonado pela área de tecnologia. Fique a vontade para desmembrar meu github e conhecer um pouco mais sobre mim e meus projetos. 
     </p> 
   </h3>
-  <br><br>
+  <img align="right" src="https://i.gifer.com/Ao.gif">
+<br><br>
 <a href="https://github-readme-stats.vercel.app/api?username=diegotx2008&show_icons=true&theme=cobalt&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegotx2008&show_icons=true&theme=cobalt&count_private=true" />
 </a>
