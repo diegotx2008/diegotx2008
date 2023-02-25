@@ -1,8 +1,6 @@
 <h1>Seja bem vindo ao meu perfil!!</h1>
 <h2>
   Sou um desenvolvedor Sankhya e PL/SQL apaixonado pela área de tecnologia!
-  <br>
-  Fique a vontade para analisar o meu perfil e caso deseje entrar em contato pode me acionar através do e-mail diegotx2008@gmail.com
 </h2>
 
 <a href="https://github-readme-stats.vercel.app/api?username=diegotx2008&show_icons=true&theme=cobalt&count_private=true">
