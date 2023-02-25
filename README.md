@@ -5,6 +5,9 @@
 	<h3>
       Sou um desenvolvedor Sankhya e PL/SQL apaixonado pela área de tecnologia. Fique a vontade para desmembrar meu github e conhecer um pouco mais sobre mim e meus projetos. 
 	</h3>
+	
+</div>
+<div>
 	<img align="left" src="https://im5.ezgif.com/tmp/ezgif-5-5d4ce0b805.gif">
 	<br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
