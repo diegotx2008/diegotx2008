@@ -1,5 +1,5 @@
 <h1>Seja bem vindo ao meu perfil!!</h1>
-<h3>
+<h3 style="text-align:justify;">
   Sou um desenvolvedor Sankhya e PL/SQL apaixonado pela área de tecnologia!<br>
   Fique a vontade para desmembrar meu github para conhecer um pouco mais sobre mim e meus projetos.  
 </h3>
