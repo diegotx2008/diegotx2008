@@ -23,6 +23,7 @@
 
 <div>
   <h3>Tecnologias que já trabalho</h3>
+    <img src="https://img.shields.io/badge/JAVA-F80000?style=for-the-badge&logo=openjdk&logoColor=black"/>	
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
