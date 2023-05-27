@@ -3,7 +3,7 @@
 
 <div>
 	<h3>
-      Sou um desenvolvedor Sankhya e PL/SQL apaixonado pela área de tecnologia. Fique a vontade para desmembrar meu github e conhecer um pouco mais sobre mim e meus projetos. 
+      Sou um desenvolvedor Sankhya e PL/SQL apaixonado pela área de tecnologia. Fique a vontade para se aventurar no meu github e conhecer um pouco mais sobre mim e meus projetos. 
 	</h3>
 	
 </div>
